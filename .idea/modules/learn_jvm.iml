@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="learn_jvm" external.linked.project.path="$MODULE_DIR$/../../learn_jvm" external.root.project.path="$MODULE_DIR$/../../learn_jvm" external.system.id="GRADLE" external.system.module.group="com.bryce" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../learn_jvm">
+      <excludeFolder url="file://$MODULE_DIR$/../../learn_jvm/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../learn_jvm/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../learn_jvm/out" />
+    </content>
+    <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
