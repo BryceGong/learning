@@ -3,11 +3,12 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../learn_jvm">
+      <sourceFolder url="file://$MODULE_DIR$/../../learn_jvm/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/../../learn_jvm/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../learn_jvm/build" />
       <excludeFolder url="file://$MODULE_DIR$/../../learn_jvm/out" />
     </content>
-    <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
+    <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

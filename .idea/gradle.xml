@@ -5,8 +5,8 @@
       <GradleProjectSettings>
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/learn_jvm" />
-        <option name="gradleHome" value="D:/software/gradle-5.0" />
-        <option name="gradleJvm" value="1.8" />
+        <option name="gradleHome" value="D:/tools/install/gradle-5.0-rc-5" />
+        <option name="gradleJvm" value="JDK" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/learn_jvm" />
